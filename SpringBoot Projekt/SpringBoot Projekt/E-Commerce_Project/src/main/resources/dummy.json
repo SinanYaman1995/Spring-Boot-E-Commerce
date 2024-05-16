@@ -1,0 +1,22 @@
+[  
+    {
+      "id": 1,
+      "name": "Jacke",
+      "Product_id": 233,
+      "price": 80.00,
+      "image": "url/Jacke.png",
+      "categories":[
+        "c1"
+      ]
+    },
+    {
+        "id": 2,
+        "name": "Hosen",
+        "Product_id": 244,
+        "price": 35.00,
+        "image": "url/Hose.png",
+        "categories":[
+          "c2"
+        ]
+    }
+]
